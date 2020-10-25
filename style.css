@@ -83,7 +83,7 @@ main>div>article#intro>section>header>p {
 
 /* unordered list */
 
-main>div>article#intro>section>header>ul>li {
+body>article#intro>section>header>ul>li {
     font-size: 14px;
     font-family: 'DM Sans', sans-serif;
 }
