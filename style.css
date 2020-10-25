@@ -40,7 +40,7 @@ html>body>header>div {
 
 /* h1 header */
 
-html>body>header>div>nav>article#Top>h1 {
+html>body>header>nav>article#Top>h1 {
     font-family: 'Orbitron', sans-serif;
     text-align: center;
     font-size: 30px;
@@ -53,7 +53,7 @@ html>body>header>div>nav>article#Top>h1 {
 
 /* h1 paragraph */
 
-html>body>header>div>nav>article#Top>h1>p {
+body>header>nav>article#Top>h1>p {
     font-size: 18px;
     border-bottom: 2px;
     letter-spacing: 0;
@@ -83,7 +83,7 @@ main>div>article#intro>section>header>p {
 
 /* unordered list */
 
-main>div>article>section>header>ul>li {
+main>div>article#intro>section>header>ul>li {
     font-size: 14px;
     font-family: 'DM Sans', sans-serif;
 }
@@ -182,3 +182,5 @@ nav>p {
     font-family: 'Orbitron', sans-serif;
     letter-spacing: 2px
 }
+
+.titlehead {}
