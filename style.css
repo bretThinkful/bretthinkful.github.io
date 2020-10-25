@@ -140,7 +140,10 @@ section>header>article#end>p {
     text-align: center;
     margin: 0;
 }
-
+section>header>article#end>ol#order {
+	font-family: 'Orbitron', sans-serif;
+	font-size: 18px;
+}
 
 /* h3 paragraph */
 
