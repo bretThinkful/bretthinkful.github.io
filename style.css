@@ -48,6 +48,7 @@ html>body>header>nav>article#Top>h1 {
     letter-spacing: 4px;
     position: center;
     border-image-width: auto;
+	background-color: rgb(194, 134, 24);
 }
 
 
