@@ -74,7 +74,7 @@ article#intro>section>header>h2 {
 
 /* h2 paragraph */
 
-main>div>article>section>header>p {
+main>div>article#intro>section>header>p {
     font-size: 14px;
     font-family: 'Noto Sans', sans-serif;
     text-align: justify;
