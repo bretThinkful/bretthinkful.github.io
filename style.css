@@ -143,11 +143,10 @@ section>footer>p {
 
 /* google maps */
 
-section>footer>iframe {
-    border-radius: 4px;
-    width: 600;
-    height: 450;
-    tab-size: 0;
+iframe#map {
+    border: 1px solid black;
+    width: 100%;
+    height: 450px;
 }
 
 
