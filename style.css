@@ -124,6 +124,7 @@ section>header>article#about>p {
 }
 
 
+
 /* h3 footer */
 
 main>div>article>section>footer {
@@ -156,6 +157,14 @@ body>main>article#intro>section>header>ul#un>li {
 section>header>article#end>ol#order>li {
     font-family: 'Orbitron', sans-serif;
     font-size: 18px;
+}
+
+
+/* h3 paragraph */
+
+section>p {
+    font-size: 16px;
+    font-family: 'DM Sans', sans-serif;
 }
 
 
