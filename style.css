@@ -117,7 +117,7 @@ section>header>article#about>h3 {
     margin: 0;
 }
 
-section>header>article#about>p {
+html>body>main>section>header>article#about>p {
     font-family: 'DM Sans', sans-serif;
     font-size: 16px;
     margin: auto
