@@ -105,6 +105,11 @@ a:visited {
     color: rgb(240, 183, 78);
 }
 
+body>article#about>p {
+	font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+	margin: 0;
+}
 
 /* h3 header */
 
